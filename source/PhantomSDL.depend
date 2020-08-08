@@ -1,0 +1,694 @@
+# depslib dependency file v1.0
+1154821241 g:\gamedev\c++\proyectos\pge-phantom\phantomsdltest.cpp
+	"PhantomSDL.h"
+
+1154821337 g:\gamedev\c++\proyectos\pge-phantom\phantomsdl.h
+	"SDL/SDL.h"
+	"FMOD/fmod.h"
+	"OpenGL/gl.h"
+	<fstream>
+	<stdarg.h>
+	<string>
+	<vector>
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_platform.h
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\begin_code.h
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\close_code.h
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_keysym.h
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1154703269 g:\gamedev\c++\proyectos\pge-phantom\fmod\fmod.h
+
+1154819358 g:\gamedev\c++\proyectos\pge-phantom\phantomsdl_csdl.cpp
+	"PhantomSDL.h"
+
+1154794827 g:\gamedev\c++\proyectos\pge-phantom\phantomsdl_cinput.cpp
+	"PhantomSDL.h"
+
+1154819368 g:\gamedev\c++\proyectos\pge-phantom\phantomsdl_clog.cpp
+	"PhantomSDL.h"
+
+1154819331 g:\gamedev\c++\proyectos\pge-phantom\phantomsdl_ckeyin.cpp
+	"PhantomSDL.h"
+
+1154819323 g:\gamedev\c++\proyectos\pge-phantom\phantomsdl_cinstancecontroller.cpp
+	"PhantomSDL.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\sdl\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1104682472 g:\gamedev\c++\proyectos\pge-phantom\opengl\gl.h
+
+1155320559 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\phantomsdl_cinstancecontroller.cpp
+	"PhantomSDL.h"
+
+1155483465 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\phantomsdl.h
+	"SDL/SDL.h"
+	"OpenGL/gl.h"
+	"OpenAL/al.h"
+	"OpenAL/alut.h"
+	<fstream>
+	<stdarg.h>
+	<time.h>
+	<string>
+	<vector>
+	<list>
+	<windows.h>
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_platform.h
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\begin_code.h
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\close_code.h
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_keysym.h
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1154703269 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\fmod\fmod.h
+
+1104682472 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\opengl\gl.h
+
+1155309726 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\phantomsdl_ckeyin.cpp
+	"PhantomSDL.h"
+
+1155309692 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\phantomsdl_clog.cpp
+	"PhantomSDL.h"
+
+1155388586 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\phantomsdl_csdl.cpp
+	"PhantomSDL.h"
+
+1155389617 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\phantomsdltest.cpp
+	"PhantomSDL.h"
+
+1154981211 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\openal\al.h
+	"altypes.h"
+
+1154981211 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\openal\altypes.h
+
+1154981211 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\openal\alut.h
+	"al.h"
+	"alu.h"
+
+1154981211 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\openal\alu.h
+	"altypes.h"
+
+1155387051 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\phantomsdl_csystem.cpp
+	"PhantomSDL.h"
+
+1155213784 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\phantomsdl_ctimer.cpp
+	"PhantomSDL.h"
+
+1155483555 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\phantomsdl_calarm.cpp
+	"PhantomSDL.h"
+
+1155234710 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\phantomsdl_cfps.cpp
+	"PhantomSDL.h"
+
+1155320559 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\phantomsdl_cinstancehandler.cpp
+	"PhantomSDL.h"
+
+1155382627 c:\documents and settings\administrador.desktop\mis documentos\pge-phantom\source\phantomsdl_ckeyboard.cpp
+	"PhantomSDL.h"
+
+1155213784 g:\gamedev\c++\proyectos\pge-phantom\source\phantomsdl_ctimer.cpp
+	"PhantomSDL.h"
+
+1155642958 g:\gamedev\c++\proyectos\pge-phantom\source\phantomsdl.h
+	"SDL/SDL.h"
+	"OpenGL/gl.h"
+	"OpenAL/al.h"
+	"OpenAL/alut.h"
+	<fstream>
+	<stdarg.h>
+	<time.h>
+	<string>
+	<vector>
+	<list>
+	<windows.h>
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_platform.h
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\begin_code.h
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\close_code.h
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_keysym.h
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1152568922 g:\gamedev\c++\proyectos\pge-phantom\source\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1104682472 g:\gamedev\c++\proyectos\pge-phantom\source\opengl\gl.h
+
+1154981211 g:\gamedev\c++\proyectos\pge-phantom\source\openal\al.h
+	"altypes.h"
+
+1154981211 g:\gamedev\c++\proyectos\pge-phantom\source\openal\altypes.h
+
+1154981211 g:\gamedev\c++\proyectos\pge-phantom\source\openal\alut.h
+	"al.h"
+	"alu.h"
+
+1154981211 g:\gamedev\c++\proyectos\pge-phantom\source\openal\alu.h
+	"altypes.h"
+
+1155651771 g:\gamedev\c++\proyectos\pge-phantom\source\phantomsdltest.cpp
+	"PhantomSDL.h"
+
+1155483555 g:\gamedev\c++\proyectos\pge-phantom\source\phantomsdl_calarm.cpp
+	"PhantomSDL.h"
+
+1155234710 g:\gamedev\c++\proyectos\pge-phantom\source\phantomsdl_cfps.cpp
+	"PhantomSDL.h"
+
+1155320559 g:\gamedev\c++\proyectos\pge-phantom\source\phantomsdl_cinstancehandler.cpp
+	"PhantomSDL.h"
+
+1155382627 g:\gamedev\c++\proyectos\pge-phantom\source\phantomsdl_ckeyboard.cpp
+	"PhantomSDL.h"
+
+1155309692 g:\gamedev\c++\proyectos\pge-phantom\source\phantomsdl_clog.cpp
+	"PhantomSDL.h"
+
+1155557715 g:\gamedev\c++\proyectos\pge-phantom\source\phantomsdl_csdl.cpp
+	"PhantomSDL.h"
+
+1155486488 g:\gamedev\c++\proyectos\pge-phantom\source\phantomsdl_csystem.cpp
+	"PhantomSDL.h"
+

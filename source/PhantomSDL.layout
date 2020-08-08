@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE CodeBlocks_layout_file>
+<CodeBlocks_layout_file>
+	<File name="OpenGL\glext.h" open="0" top="0">
+		<Cursor position="233488" topLine="4591"/>
+	</File>
+	<File name="PhantomSDL.h" open="0" top="0">
+		<Cursor position="1135" topLine="84"/>
+	</File>
+	<File name="PhantomSDLTest.cpp" open="0" top="0">
+		<Cursor position="653" topLine="24"/>
+	</File>
+	<File name="PhantomSDL_CALARM.cpp" open="0" top="0">
+		<Cursor position="1735" topLine="33"/>
+	</File>
+	<File name="PhantomSDL_CFPS.cpp" open="0" top="0">
+		<Cursor position="766" topLine="8"/>
+	</File>
+	<File name="PhantomSDL_CKEYBOARD.cpp" open="0" top="0">
+		<Cursor position="1686" topLine="47"/>
+	</File>
+	<File name="PhantomSDL_CLOG.cpp" open="0" top="0">
+		<Cursor position="2395" topLine="63"/>
+	</File>
+	<File name="PhantomSDL_CSDL.cpp" open="1" top="1">
+		<Cursor position="4481" topLine="134"/>
+	</File>
+	<File name="PhantomSDL_CSYSTEM.cpp" open="0" top="0">
+		<Cursor position="2227" topLine="46"/>
+	</File>
+	<File name="PhantomSDL_CTIMER.cpp" open="0" top="0">
+		<Cursor position="2297" topLine="74"/>
+	</File>
+	<File name="SDL\SDL_opengl.h" open="0" top="0">
+		<Cursor position="334998" topLine="6518"/>
+	</File>
+	<Expand folder="/Sources"/>
+	<Expand folder="/Headers"/>
+</CodeBlocks_layout_file>
